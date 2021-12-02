@@ -1,4 +1,4 @@
-package com.henry;
+package com.henry.maths;
 
 public class Two {
     public static void main(String[] args) {
